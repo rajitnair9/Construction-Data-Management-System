@@ -3,7 +3,7 @@ This is a SQL case study exploring the construction industry:  I started by gene
 
 # About Database
 
-Entities:
+## Entities:
 Contractor: Companies or individuals responsible for carrying out construction projects.
 
 Client: Entities that contract the services of contractors for construction projects.

@@ -5,11 +5,17 @@ This is a SQL case study exploring the construction industry:  I started by gene
 
 Entities:
 Contractor: Companies or individuals responsible for carrying out construction projects.
+
 Client: Entities that contract the services of contractors for construction projects.
+
 Counselor: Advisors or consultants who may assist clients or contractors with their projects or subscriptions.
+
 Project: Construction projects undertaken by contractors for clients.
+
 Project Phase: Different stages of a construction project, such as planning, construction, and finishing.
+
 Subscription: Service agreements between clients or contractors and the platform, offering various subscription types.
+
 Products: Displays the Products offered by the clients.
 
 Relationships:

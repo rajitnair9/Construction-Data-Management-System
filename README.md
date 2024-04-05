@@ -18,16 +18,23 @@ Subscription: Service agreements between clients or contractors and the platform
 
 Products: Displays the Products offered by the clients.
 
-Relationships:
+## Relationships:
 Contractors undertake multiple projects, establishing a one-to-many relationship between contractors and projects.
+
 Each project can have multiple phases, forming a one-to-many relationship between projects and project phases.
+
 Clients can subscribe to various subscription types, forming a one-to-many relationship between clients and subscriptions.
+
 Counselors can be associated with multiple subscriptions, establishing a one-to-many relationship between counselors and subscriptions.
+
 Contractors and clients can have subscriptions, forming one-to-many relationships between contractors and subscriptions and between clients and subscriptions.
+
 There's a one-to-many relationship between clients and products, indicating that a client can offer multiple products.
 
-Subscriptions:
+## Subscriptions:
 Subscription types include "Basic" and "Premium," each offering different services and features.
+
 Subscriptions may have start and end dates, along with associated amounts representing subscription fees.
+
 Clients and contractors can subscribe to different subscription types, providing access to platform services(counselors) and features tailored to their needs.
 
